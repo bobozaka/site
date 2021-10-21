@@ -251,15 +251,16 @@ p {
   }
   .header_logo {
     padding-top: 13px;
-    padding-bottom: 21px;
+    padding-bottom: 24px
   }
   .header_item--btn {
     padding-right: 20px;
     padding-left: 53px;
   }
   .header_img {
-    width: 23%;
-    padding-left: 65px;
+    width: 26%;
+    padding-left: 83px;
+    padding-top: 4px;
   }
 
   .header_nav {
@@ -289,7 +290,7 @@ p {
   }
 
   .burger {
-    margin-top: 13px;
+    margin-top: 15px;
     width: 30px;
     position: relative;
     height: 23px;
@@ -348,7 +349,7 @@ p {
   }
 
   .header_btn {
-    margin: 16px;
+    padding-top: 16px;
   }
 }
 @media (max-width: 768px) {
